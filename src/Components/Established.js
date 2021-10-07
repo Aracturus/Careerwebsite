@@ -14,11 +14,11 @@ export default function Established() {
                     </span>
                 </div>
                 <div className="equity2 column">
-                   <h1>3110</h1>
+                   <h1 style={{color:'white'}}>3110</h1>
                    <span>Salesforce employees in India</span>
                 </div>
                 <div className="equity3 column">
-                <h1>2005</h1>
+                <h1 style={{color:'white'}}>2005</h1>
                    <span>Salesforce India established</span>
                 </div>
                 

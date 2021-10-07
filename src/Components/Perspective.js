@@ -12,7 +12,7 @@ export default function Perspective() {
                 <p className="perspective-para">
                 “Being here is a dream come true. I used to believe in doing good, but never went out there and did any volunteer work. Six months after joining Salesforce, I was already a Volunteer Rockstar and had volunteered more than 56 hours. Salesforce has motivated me to be this person, and now it's a part of me.”
                 <br/>
-                <span className="span-link"><b>YUKTI TULSYAN,<br/></b>
+                <span  className="span-link"><b>YUKTI TULSYAN,<br/></b>
 
                  SENIOR PRODUCT MANAGER, HYDERABAD<br/><br />
                  <h4 >READ THE BLOG &gt;</h4>
@@ -25,13 +25,13 @@ export default function Perspective() {
             </div>
             
         </div>
-        <div className="container perspective-para columns">
+        <div className="perspective-res columns">
 
             <div className="column">
-                <img  className="perspective-para " src={perspective2} alt="" srcSet="" />
+                <img  className="perspective-res " src={perspective2} alt="" srcSet="" />
             </div>
             <div className="column">
-                <p className="perspective-para">
+                <p className="perspective-res">
                 ““I really love the culture here. Trust is our number one value not only with our customers, but also with employees. I can be confident that every org and team has smart people with great ideas.”
 
                 <br/>

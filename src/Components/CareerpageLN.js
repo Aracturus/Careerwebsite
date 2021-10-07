@@ -7,7 +7,7 @@ export default function CareerpageLN() {
     return (
         <>
 
-<div className="container">
+<div className="container ">
                     <h1>The Latest News from India.</h1>
 
             
@@ -15,8 +15,8 @@ export default function CareerpageLN() {
                     <div className="columns">
                         {/* one of three */}
                         
-                        <div className="column  container">
-                                <div className="card">
+                        <div className="column  ">
+                                <div className="card ln-bg">
                                     <div className="card-image">
                                         <figure className="image is-4by3">
                                         <img src={LN1} alt="Placeholder"/>
@@ -35,8 +35,8 @@ export default function CareerpageLN() {
                                 </div>
                         </div>
                         {/* two of three */}
-                        <div className="column mgt-small">
-                                <div className="card">
+                        <div className="column ">
+                                <div className="card ln-bg">
                                     <div className="card-image">
                                         <figure className="image is-4by3">
                                         <img src={LN2} alt="Placeholder"/>
@@ -57,8 +57,8 @@ export default function CareerpageLN() {
                         </div>
                         {/* three of three */}
 
-                        <div className="column mgt-small">
-                                <div className="card">
+                        <div className="column ">
+                                <div className="card ln-bg">
                                     <div className="card-image">
                                         <figure className="image is-4by3">
                                         <img src={LN3} alt="Placeholder"/>

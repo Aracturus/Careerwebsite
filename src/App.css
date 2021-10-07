@@ -1,3 +1,11 @@
+body{
+  font-family:lucida;
+  background-color: black;
+  color: #dfdbe0;
+}
+img{
+  border-radius: 10%;
+}
 .navBarBorder{
   border-bottom: 3px solid rgb(15, 176, 230);
 
@@ -11,7 +19,7 @@
 
 h1{
   font-size: 3.2rem;
-  color: #481a54;
+  color:#ff0000;
   text-align: center;
   padding: 3px;
   font-weight: bold;
@@ -21,9 +29,9 @@ h1{
   padding-top: 9px;
   height: 2.6rem;
   text-align: center;
-  color: aliceblue;
+  color:white;
   font-weight: bold;
-  background-color: #481a54;
+  background-color: #ff0000;
 
 }
 p{
@@ -35,17 +43,22 @@ p{
 
 }
 h2{
-  color: #481a54;
+  color: white;
   text-align: center;
-  padding-top: 3rem;
-  font-size: x-large;
+  padding-top: 1rem;
+  font-size: 3rem;
   font-weight: bold;
+}
+h3{
+  text-align: center;
+
+
 }
 /* .imgMargin{
   text-align: center;
 } */
 h4{
-  color: #481a54;
+  color: White;
   text-align: center;
   /* padding: 3px; */
   font-weight: bold;
@@ -67,7 +80,7 @@ h4{
 
   }
   h2{
-    font-size: 1rem;
+    font-size: 2.2rem;
   }
   
   .equity1 ,.equity2 ,.equity3{
@@ -95,7 +108,7 @@ transform: translateX(-8rem);
 }
 /* Media quries end Here */
 .title{
-  color: #481a54;
+  color: black;
   font-size: 1.2rem;
 }
 
@@ -111,7 +124,7 @@ transform: translateX(-8rem);
 }
 
 .equity1{
-  background-color: #481a54;
+  background-color: #ff0000;
   /* width: 40%; */
   margin: 2rem;
   padding: 2rem;
@@ -126,16 +139,16 @@ transform: translateX(-8rem);
   text-align: center;
 }
 .equity3{
-  background-color: #dfdbe0;
+  background-color: #323033;
 
   /* width: 40%; */
   margin: 2rem;
   padding: 2rem;
-  color: aliceblue;
+  color:white;
   text-align: center;
 }
 .bythenumber-bg{
-  background-color: #dfdbe0;
+  background-color: #323033;
   margin-top: 2%; 
   border-radius: 2%;
  
@@ -147,8 +160,12 @@ transform: translateX(-8rem);
   text-align: center;
 }
 .perspective-res{
-  /* margin-top: 2%; 
-  border-radius: 2%; */
-  transform: translateX(3rem);
+  margin-top: 2%; 
+  /* border-radius: 2%; */
+  /* transform: translateX(3rem); */
 
+}
+.ln-bg{
+  background-color: gray;
+  width: fit-content;
 }

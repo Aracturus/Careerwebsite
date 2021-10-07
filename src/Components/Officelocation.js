@@ -17,19 +17,19 @@ export default function Officelocation() {
                     <div className=" column   container">
                     <img className="image-size" src={bangalore} alt="" srcSet="" />
 
-                    <h2 >Bengaluru</h2>
+                    <h3 >Bengaluru</h3>
         
                     </div>  
                     <div className=" column   container">
                     <img className="image-size" src={gurgaon} alt="" srcSet="" />
 
-                    <h2 >Gurgaon</h2>
+                    <h3 >Gurgaon</h3>
         
                     </div>  
                     <div className=" column   container">
                     <img className="image-size" src={mumbai} alt="" srcSet="" />
 
-                    <h2 >Mumbai</h2>
+                    <h3 >Mumbai</h3>
         
                     </div>  
                 </div>
@@ -38,13 +38,13 @@ export default function Officelocation() {
                     <div className=" column   container">
                     <img className="image-size" src={delhi} alt="" srcSet="" />
 
-                    <h2 >New Delhi</h2>
+                    <h3 >New Delhi</h3>
         
                     </div>  
                     <div className=" column   container">
                     <img className="image-size" src={hyderabad} alt="" srcSet="" />
 
-                    <h2 >Hyderabad</h2>
+                    <h3 >Hyderabad</h3>
         
                     </div>  <div className=" column   container"></div>  
                                     
